@@ -1,0 +1,33 @@
+h1{
+background-color:red;
+font-style:italic;
+font-family:sans-serif;
+font-size:55px;
+font-weight:600;
+text-shadow:5px 7px 8px black;
+} 
+h2{
+background-color:pink;
+text-shadow:4px 4px 8px purple;
+}
+#parag{
+background-color:lightblue;
+font-style:italic;
+font-family:verdana;
+font-size:20px;
+font-weight:800;
+direction:rtl;
+letter-spacing:3px;
+word-spacing:5px;
+text-decoration:line-through;
+text-transform:capitalize;
+}
+p{
+background-color:yellow;
+text-indent:2cm;
+}
+body{
+background-image:url("/home/6CSE3/Desktop/exo.jpeg");
+background-repeat: repeat-x;
+background-attachment:fixed;
+}
